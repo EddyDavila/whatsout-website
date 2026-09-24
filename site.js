@@ -1,3 +1,4 @@
+const marketingScript=document.createElement('script');marketingScript.src='whatsout-marketing.js';document.body.append(marketingScript);
 const supported=['en','es','fr','de','it','pt','ja'],original=new Map();
 function set(s,v,h=false){const e=document.querySelector(s);if(!e)throw Error(s);if(!original.has(e))original.set(e,e.innerHTML);if(h){e.replaceChildren(document.createTextNode(v[0]),document.createElement('br'));const em=document.createElement('em');em.textContent=v[1];e.append(em);}else e.textContent=v;}
 function list(s,v){document.querySelectorAll(s).forEach((e,i)=>{if(v[i]===undefined)throw Error(s);if(!original.has(e))original.set(e,e.innerHTML);e.textContent=v[i];});}
