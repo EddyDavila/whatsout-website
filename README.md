@@ -1,4 +1,4 @@
-# What's Out marketing website
+# StepOut marketing website
 
 Static GitHub Pages site. Separate from the private app source and StepOut agent workspace.
 
