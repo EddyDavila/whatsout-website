@@ -4,7 +4,7 @@ window.WO_TRANSLATIONS={
       "Descubrir",
       "Para negocios",
       "Agentes ↗",
-      "Próximamente"
+      "Disponible ahora"
     ],
     "hero": [
       "LOS LUGARES NOS UNEN. LOS EVENTOS LO HACEN POSIBLE.",
@@ -14,7 +14,7 @@ window.WO_TRANSLATIONS={
       "Descubre lugares y eventos con StepOut y dale a la gente una razón para visitar tu negocio.",
       "Encuentra tu próxima salida",
       "Tengo un negocio",
-      "La descarga de Android no está disponible actualmente. No hay una fecha de regreso confirmada. Contacta con Bitter Softworks para recibir novedades.",
+      "La descarga de Android de StepOut está disponible. Abre la app, inicia sesión y comienza a explorar.",
       "LA CIUDAD ES TU PUNTO DE PARTIDA",
       "Haz que tu próximo plan sea diferente."
     ],
@@ -58,7 +58,7 @@ window.WO_TRANSLATIONS={
       "APOYA ESTA FUNCIÓN",
       "Evento + Vuelo + Hotel",
       "+ Paquete de transporte.",
-      "Estado: ¡Vuelve pronto!",
+      "Estado: Disponible ahora.",
       "Una propuesta para reunir tu evento y tus planes de viaje.",
       "Los paquetes y las reservas todavía no están disponibles."
     ],
@@ -74,7 +74,7 @@ window.WO_TRANSLATIONS={
       "Respuestas claras.",
       "Sin grandes promesas.",
       "¿Puedo descargar StepOut hoy?",
-      "La descarga de Android no está disponible actualmente. No hay una fecha de regreso confirmada. Contacta con Bitter Softworks para recibir novedades.",
+      "La descarga de Android de StepOut está disponible. Abre la app, inicia sesión y comienza a explorar.",
       "¿Todos los eventos cercanos generan notificaciones?",
       "No. El aviso de la fiesta más cercana aparece dentro de la app según los resultados cargados. Las invitaciones VIP elegibles tienen notificaciones; no se promete una alerta en segundo plano por cada evento.",
       "¿Qué aporta la suscripción comercial?",
@@ -88,7 +88,7 @@ window.WO_TRANSLATIONS={
       "EL PRÓXIMO CAPÍTULO SE ACERCA",
       "Tu ciudad.",
       "Tu próxima historia.",
-      "La descarga de Android no está disponible actualmente. No hay una fecha de regreso confirmada. Contacta con Bitter Softworks para recibir novedades.",
+      "La descarga de Android de StepOut está disponible. Abre la app, inicia sesión y comienza a explorar.",
       "Explora la experiencia web ↗",
       "Pregunta por el lanzamiento",
       "La web y Android tienen funciones distintas. Las suscripciones comerciales se compran mediante Google Play compatible en Android."
@@ -107,7 +107,7 @@ window.WO_TRANSLATIONS={
       "Découvrir",
       "Entreprises",
       "Agents ↗",
-      "Bientôt"
+      "Disponible maintenant"
     ],
     "hero": [
       "LES LIEUX NOUS RASSEMBLENT. LES ÉVÉNEMENTS CRÉENT LA RENCONTRE.",
@@ -117,7 +117,7 @@ window.WO_TRANSLATIONS={
       "Découvrez des lieux et des événements avec StepOut et donnez envie de visiter votre établissement.",
       "Trouvez votre prochaine sortie",
       "Je dirige un établissement",
-      "Le téléchargement Android est actuellement indisponible. Aucune date de retour n’est confirmée. Contactez Bitter Softworks pour les mises à jour.",
+      "Le téléchargement Android de StepOut est disponible. Ouvrez l’application, connectez-vous et commencez à explorer.",
       "LA VILLE EST VOTRE POINT DE DÉPART",
       "Un prochain rendez-vous moins ordinaire."
     ],
@@ -177,7 +177,7 @@ window.WO_TRANSLATIONS={
       "Des réponses claires.",
       "Pas de grandes promesses.",
       "Puis-je télécharger StepOut aujourd’hui ?",
-      "Le téléchargement Android est actuellement indisponible. Aucune date de retour n’est confirmée. Contactez Bitter Softworks pour les mises à jour.",
+      "Le téléchargement Android de StepOut est disponible. Ouvrez l’application, connectez-vous et commencez à explorer.",
       "Tous les événements proches déclenchent-ils une notification ?",
       "Non. Le signalement de la fête la plus proche apparaît dans l’application selon les résultats chargés. Les invitations VIP éligibles ont un système de notification, sans alerte garantie pour chaque événement.",
       "Que change l’abonnement professionnel ?",
@@ -191,7 +191,7 @@ window.WO_TRANSLATIONS={
       "LE PROCHAIN CHAPITRE APPROCHE",
       "Votre ville.",
       "Votre prochaine histoire.",
-      "Le téléchargement Android est actuellement indisponible. Aucune date de retour n’est confirmée. Contactez Bitter Softworks pour les mises à jour.",
+      "Le téléchargement Android de StepOut est disponible. Ouvrez l’application, connectez-vous et commencez à explorer.",
       "Explorer la version web ↗",
       "Se renseigner sur le lancement",
       "Les fonctions web et Android diffèrent. Les abonnements professionnels utilisent les achats Google Play compatibles sur Android."
@@ -210,7 +210,7 @@ window.WO_TRANSLATIONS={
       "Entdecken",
       "Für Unternehmen",
       "Vertrieb ↗",
-      "Demnächst"
+      "Jetzt verfügbar"
     ],
     "hero": [
       "ORTE VERBINDEN UNS. EVENTS BRINGEN UNS ZUSAMMEN.",
@@ -220,7 +220,7 @@ window.WO_TRANSLATIONS={
       "Entdecke Orte und Events mit StepOut – und gib Menschen einen Grund, dein Unternehmen zu besuchen.",
       "Finde deinen nächsten Ausflug",
       "Ich habe ein Unternehmen",
-      "Der Android-Download ist derzeit nicht verfügbar. Ein Rückkehrdatum steht nicht fest. Bitte kontaktieren Sie Bitter Softworks für Neuigkeiten.",
+      "Der Android-Download von StepOut ist jetzt verfügbar. Öffnen Sie die App, melden Sie sich an und entdecken Sie die Stadt.",
       "DEINE STADT IST DER AUSGANGSPUNKT",
       "Mach deinen nächsten Plan besonders."
     ],
@@ -264,7 +264,7 @@ window.WO_TRANSLATIONS={
       "UNTERSTÜTZE DIESE FUNKTION",
       "Event + Flug + Hotel",
       "+ Transportpaket.",
-      "Status: Bald wieder vorbeischauen!",
+      "Status: Jetzt verfügbar.",
       "Geplant: Event und Reiseplanung zusammenbringen.",
       "Pakete und Buchungen sind noch nicht verfügbar."
     ],
@@ -280,7 +280,7 @@ window.WO_TRANSLATIONS={
       "Klare Antworten.",
       "Keine großen Versprechen.",
       "Kann ich StepOut heute herunterladen?",
-      "Der Android-Download ist derzeit nicht verfügbar. Ein Rückkehrdatum steht nicht fest. Bitte kontaktieren Sie Bitter Softworks für Neuigkeiten.",
+      "Der Android-Download von StepOut ist jetzt verfügbar. Öffnen Sie die App, melden Sie sich an und entdecken Sie die Stadt.",
       "Lösen alle nahen Events Push-Nachrichten aus?",
       "Nein. Der Hinweis zur nächsten Party erscheint innerhalb der App anhand geladener Ergebnisse. Berechtigte VIP-Einladungen unterstützen Benachrichtigungen, aber nicht jedes Event löst eine Hintergrundmeldung aus.",
       "Was bringt ein Geschäftsabo?",
@@ -294,7 +294,7 @@ window.WO_TRANSLATIONS={
       "DAS NÄCHSTE KAPITEL KOMMT",
       "Deine Stadt.",
       "Deine nächste Geschichte.",
-      "Der Android-Download ist derzeit nicht verfügbar. Ein Rückkehrdatum steht nicht fest. Bitte kontaktieren Sie Bitter Softworks für Neuigkeiten.",
+      "Der Android-Download von StepOut ist jetzt verfügbar. Öffnen Sie die App, melden Sie sich an und entdecken Sie die Stadt.",
       "Webversion entdecken ↗",
       "Zum Start nachfragen",
       "Web und Android bieten unterschiedliche Funktionen. Geschäftsabos werden über unterstützte Google-Play-Käufe auf Android abgeschlossen."
@@ -313,7 +313,7 @@ window.WO_TRANSLATIONS={
       "Scopri",
       "Per le attività",
       "Agenti ↗",
-      "Prossimamente"
+      "Disponibile ora"
     ],
     "hero": [
       "I LUOGHI CI UNISCONO. GLI EVENTI CI FANNO INCONTRARE.",
@@ -323,7 +323,7 @@ window.WO_TRANSLATIONS={
       "Scopri luoghi ed eventi con StepOut e dai alle persone un motivo per visitare la tua attività.",
       "Trova la tua prossima uscita",
       "Ho un’attività",
-      "Il download Android non è attualmente disponibile. Non è confermata una data di ritorno. Contatta Bitter Softworks per aggiornamenti.",
+      "Il download Android di StepOut è disponibile. Apri l’app, accedi e inizia a esplorare.",
       "LA CITTÀ È IL TUO PUNTO DI PARTENZA",
       "Rendi speciale il tuo prossimo programma."
     ],
@@ -383,7 +383,7 @@ window.WO_TRANSLATIONS={
       "Risposte chiare.",
       "Niente grandi promesse.",
       "Posso scaricare StepOut oggi?",
-      "Il download Android non è attualmente disponibile. Non è confermata una data di ritorno. Contatta Bitter Softworks per aggiornamenti.",
+      "Il download Android di StepOut è disponibile. Apri l’app, accedi e inizia a esplorare.",
       "Tutti gli eventi vicini inviano notifiche?",
       "No. Il suggerimento della festa più vicina appare nell’app in base ai risultati caricati. Gli inviti VIP idonei prevedono notifiche, ma non ogni evento genera un avviso in background.",
       "Cosa cambia con l’abbonamento business?",
@@ -397,7 +397,7 @@ window.WO_TRANSLATIONS={
       "IL PROSSIMO CAPITOLO ARRIVA",
       "La tua città.",
       "La tua prossima storia.",
-      "Il download Android non è attualmente disponibile. Non è confermata una data di ritorno. Contatta Bitter Softworks per aggiornamenti.",
+      "Il download Android di StepOut è disponibile. Apri l’app, accedi e inizia a esplorare.",
       "Esplora la versione web ↗",
       "Chiedi del lancio",
       "Web e Android hanno funzioni diverse. Gli abbonamenti business usano acquisti Google Play supportati su Android."
@@ -416,7 +416,7 @@ window.WO_TRANSLATIONS={
       "Descobrir",
       "Para empresas",
       "Agentes ↗",
-      "Em breve"
+      "Disponível agora"
     ],
     "hero": [
       "OS LUGARES NOS UNEM. OS EVENTOS CRIAM ENCONTROS.",
@@ -426,7 +426,7 @@ window.WO_TRANSLATIONS={
       "Descubra lugares e eventos com StepOut e dê às pessoas um motivo para visitar seu negócio.",
       "Encontre seu próximo passeio",
       "Tenho um negócio",
-      "O download para Android está indisponível no momento. Não há data de retorno confirmada. Entre em contato com a Bitter Softworks para novidades.",
+      "O download Android do StepOut está disponível. Abra o app, entre e comece a explorar.",
       "A CIDADE É SEU PONTO DE PARTIDA",
       "Faça seu próximo plano sair do comum."
     ],
@@ -470,7 +470,7 @@ window.WO_TRANSLATIONS={
       "APOIE ESTE RECURSO",
       "Evento + Voo + Hotel",
       "+ Pacote de transporte.",
-      "Status: Volte em breve!",
+      "Status: Disponível agora.",
       "Uma proposta para reunir seu evento e seus planos de viagem.",
       "Pacotes e reservas ainda não estão disponíveis."
     ],
@@ -486,7 +486,7 @@ window.WO_TRANSLATIONS={
       "Respostas claras.",
       "Sem grandes promessas.",
       "Posso baixar StepOut hoje?",
-      "O download para Android está indisponível no momento. Não há data de retorno confirmada. Entre em contato com a Bitter Softworks para novidades.",
+      "O download Android do StepOut está disponível. Abra o app, entre e comece a explorar.",
       "Todos os eventos próximos enviam notificações?",
       "Não. O aviso da festa mais próxima aparece no aplicativo conforme os resultados carregados. Convites VIP elegíveis têm notificações, mas não há alerta em segundo plano garantido para cada evento.",
       "O que muda com a assinatura comercial?",
@@ -500,7 +500,7 @@ window.WO_TRANSLATIONS={
       "O PRÓXIMO CAPÍTULO ESTÁ CHEGANDO",
       "Sua cidade.",
       "Sua próxima história.",
-      "O download para Android está indisponível no momento. Não há data de retorno confirmada. Entre em contato com a Bitter Softworks para novidades.",
+      "O download Android do StepOut está disponível. Abra o app, entre e comece a explorar.",
       "Explore a versão web ↗",
       "Pergunte sobre o lançamento",
       "Web e Android têm recursos diferentes. As assinaturas comerciais usam compras Google Play compatíveis no Android."
@@ -519,7 +519,7 @@ window.WO_TRANSLATIONS={
       "見つける",
       "事業者向け",
       "エージェント ↗",
-      "近日公開"
+      "現在利用可能"
     ],
     "hero": [
       "場所が人をつなぎ、イベントが出会いを生む。",
@@ -529,7 +529,7 @@ window.WO_TRANSLATIONS={
       "StepOutで場所やイベントを探して、あなたのお店に訪れたくなる理由を届けましょう。",
       "次のお出かけを探す",
       "事業者の方へ",
-      "Android版は現在ダウンロードできません。再開日は未定です。最新情報はBitter Softworksへお問い合わせください。",
+      "StepOutのAndroid版を利用できます。アプリを開いてログインし、探索を始めましょう。",
       "街から次の体験が始まる",
       "次の予定を、少し特別に。"
     ],
@@ -573,7 +573,7 @@ window.WO_TRANSLATIONS={
       "この機能を応援",
       "イベント＋航空便＋ホテル",
       "＋交通パッケージ。",
-      "ステータス：近日中に再度ご確認ください！",
+      "ステータス：現在利用可能です。",
       "イベントと旅行の手配をまとめる構想です。",
       "パッケージと予約はまだ利用できません。"
     ],
@@ -589,7 +589,7 @@ window.WO_TRANSLATIONS={
       "わかりやすい回答。",
       "大きな約束はしません。",
       "今すぐStepOutをダウンロードできますか？",
-      "Android版は現在ダウンロードできません。再開日は未定です。最新情報はBitter Softworksへお問い合わせください。",
+      "StepOutのAndroid版を利用できます。アプリを開いてログインし、探索を始めましょう。",
       "近くの全イベントがプッシュ通知されますか？",
       "いいえ。最寄りのパーティー案内は、読み込まれた結果に基づくアプリ内表示です。対象のVIP招待には通知機能がありますが、各イベントのバックグラウンド通知は保証しません。",
       "事業者向けサブスクリプションで何が変わりますか？",
@@ -603,7 +603,7 @@ window.WO_TRANSLATIONS={
       "次の章は、もうすぐ",
       "あなたの街。",
       "あなたの次の物語。",
-      "Android版は現在ダウンロードできません。再開日は未定です。最新情報はBitter Softworksへお問い合わせください。",
+      "StepOutのAndroid版を利用できます。アプリを開いてログインし、探索を始めましょう。",
       "Web版を試す ↗",
       "公開について問い合わせる",
       "Web版とAndroid版では機能が異なります。事業者サブスクリプションはAndroidの対応するGoogle Play購入を利用します。"
