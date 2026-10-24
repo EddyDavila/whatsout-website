@@ -11,10 +11,10 @@ window.WO_TRANSLATIONS={
       "No solo estés en el mapa.",
       "Sé lo que está pasando.",
       "Un lugar nuevo. Una noche diferente. Una razón para salir.",
-      "Descubre lugares y eventos con StepOut y dale a la gente una razón para visitar tu negocio.",
+      "Descubre lugares y eventos con FiestaBug y dale a la gente una razón para visitar tu negocio.",
       "Encuentra tu próxima salida",
       "Tengo un negocio",
-      "La descarga de Android de StepOut está disponible. Abre la app, inicia sesión y comienza a explorar.",
+      "La descarga de Android de FiestaBug está disponible. Abre la app, inicia sesión y comienza a explorar.",
       "LA CIUDAD ES TU PUNTO DE PARTIDA",
       "Haz que tu próximo plan sea diferente."
     ],
@@ -73,8 +73,8 @@ window.WO_TRANSLATIONS={
       "IMPORTANTE",
       "Respuestas claras.",
       "Sin grandes promesas.",
-      "¿Puedo descargar StepOut hoy?",
-      "La descarga de Android de StepOut está disponible. Abre la app, inicia sesión y comienza a explorar.",
+      "¿Puedo descargar FiestaBug hoy?",
+      "La descarga de Android de FiestaBug está disponible. Abre la app, inicia sesión y comienza a explorar.",
       "¿Todos los eventos cercanos generan notificaciones?",
       "No. El aviso de la fiesta más cercana aparece dentro de la app según los resultados cargados. Las invitaciones VIP elegibles tienen notificaciones; no se promete una alerta en segundo plano por cada evento.",
       "¿Qué aporta la suscripción comercial?",
@@ -88,7 +88,7 @@ window.WO_TRANSLATIONS={
       "EL PRÓXIMO CAPÍTULO SE ACERCA",
       "Tu ciudad.",
       "Tu próxima historia.",
-      "La descarga de Android de StepOut está disponible. Abre la app, inicia sesión y comienza a explorar.",
+      "La descarga de Android de FiestaBug está disponible. Abre la app, inicia sesión y comienza a explorar.",
       "Explora la experiencia web ↗",
       "Pregunta por el lanzamiento",
       "La web y Android tienen funciones distintas. Las suscripciones comerciales se compran mediante Google Play compatible en Android."
@@ -96,9 +96,9 @@ window.WO_TRANSLATIONS={
     "footer": [
       "Creado por Eddy Davila · Bitter Softworks",
       "Sistemas centrados en las personas.",
-      "StepOut · Espacio para agentes ↗"
+      "FiestaBug · Espacio para agentes ↗"
     ],
-    "alt": "Vista previa del mapa de StepOut con bares y eventos cerca de North Bergen y Nueva York",
+    "alt": "Vista previa del mapa de FiestaBug con bares y eventos cerca de North Bergen y Nueva York",
     "language": "Idioma",
     "auto": "Automático (navegador)"
   },
@@ -114,10 +114,10 @@ window.WO_TRANSLATIONS={
       "Ne soyez pas seulement sur la carte.",
       "Soyez ce qui se passe.",
       "Un nouveau lieu. Une autre soirée. Une raison de sortir.",
-      "Découvrez des lieux et des événements avec StepOut et donnez envie de visiter votre établissement.",
+      "Découvrez des lieux et des événements avec FiestaBug et donnez envie de visiter votre établissement.",
       "Trouvez votre prochaine sortie",
       "Je dirige un établissement",
-      "Le téléchargement Android de StepOut est disponible. Ouvrez l’application, connectez-vous et commencez à explorer.",
+      "Le téléchargement Android de FiestaBug est disponible. Ouvrez l’application, connectez-vous et commencez à explorer.",
       "LA VILLE EST VOTRE POINT DE DÉPART",
       "Un prochain rendez-vous moins ordinaire."
     ],
@@ -176,8 +176,8 @@ window.WO_TRANSLATIONS={
       "À SAVOIR",
       "Des réponses claires.",
       "Pas de grandes promesses.",
-      "Puis-je télécharger StepOut aujourd’hui ?",
-      "Le téléchargement Android de StepOut est disponible. Ouvrez l’application, connectez-vous et commencez à explorer.",
+      "Puis-je télécharger FiestaBug aujourd’hui ?",
+      "Le téléchargement Android de FiestaBug est disponible. Ouvrez l’application, connectez-vous et commencez à explorer.",
       "Tous les événements proches déclenchent-ils une notification ?",
       "Non. Le signalement de la fête la plus proche apparaît dans l’application selon les résultats chargés. Les invitations VIP éligibles ont un système de notification, sans alerte garantie pour chaque événement.",
       "Que change l’abonnement professionnel ?",
@@ -191,7 +191,7 @@ window.WO_TRANSLATIONS={
       "LE PROCHAIN CHAPITRE APPROCHE",
       "Votre ville.",
       "Votre prochaine histoire.",
-      "Le téléchargement Android de StepOut est disponible. Ouvrez l’application, connectez-vous et commencez à explorer.",
+      "Le téléchargement Android de FiestaBug est disponible. Ouvrez l’application, connectez-vous et commencez à explorer.",
       "Explorer la version web ↗",
       "Se renseigner sur le lancement",
       "Les fonctions web et Android diffèrent. Les abonnements professionnels utilisent les achats Google Play compatibles sur Android."
@@ -199,9 +199,9 @@ window.WO_TRANSLATIONS={
     "footer": [
       "Créé par Eddy Davila · Bitter Softworks",
       "Des systèmes centrés sur l’humain.",
-      "StepOut · Espace agents ↗"
+      "FiestaBug · Espace agents ↗"
     ],
-    "alt": "Aperçu StepOut montrant bars et événements près de North Bergen et New York",
+    "alt": "Aperçu FiestaBug montrant bars et événements près de North Bergen et New York",
     "language": "Langue",
     "auto": "Automatique (navigateur)"
   },
@@ -217,10 +217,10 @@ window.WO_TRANSLATIONS={
       "Nicht nur auf der Karte sein.",
       "Sei dort, wo etwas passiert.",
       "Ein neuer Ort. Ein anderer Abend. Ein Grund auszugehen.",
-      "Entdecke Orte und Events mit StepOut – und gib Menschen einen Grund, dein Unternehmen zu besuchen.",
+      "Entdecke Orte und Events mit FiestaBug – und gib Menschen einen Grund, dein Unternehmen zu besuchen.",
       "Finde deinen nächsten Ausflug",
       "Ich habe ein Unternehmen",
-      "Der Android-Download von StepOut ist jetzt verfügbar. Öffnen Sie die App, melden Sie sich an und entdecken Sie die Stadt.",
+      "Der Android-Download von FiestaBug ist jetzt verfügbar. Öffnen Sie die App, melden Sie sich an und entdecken Sie die Stadt.",
       "DEINE STADT IST DER AUSGANGSPUNKT",
       "Mach deinen nächsten Plan besonders."
     ],
@@ -279,8 +279,8 @@ window.WO_TRANSLATIONS={
       "GUT ZU WISSEN",
       "Klare Antworten.",
       "Keine großen Versprechen.",
-      "Kann ich StepOut heute herunterladen?",
-      "Der Android-Download von StepOut ist jetzt verfügbar. Öffnen Sie die App, melden Sie sich an und entdecken Sie die Stadt.",
+      "Kann ich FiestaBug heute herunterladen?",
+      "Der Android-Download von FiestaBug ist jetzt verfügbar. Öffnen Sie die App, melden Sie sich an und entdecken Sie die Stadt.",
       "Lösen alle nahen Events Push-Nachrichten aus?",
       "Nein. Der Hinweis zur nächsten Party erscheint innerhalb der App anhand geladener Ergebnisse. Berechtigte VIP-Einladungen unterstützen Benachrichtigungen, aber nicht jedes Event löst eine Hintergrundmeldung aus.",
       "Was bringt ein Geschäftsabo?",
@@ -294,7 +294,7 @@ window.WO_TRANSLATIONS={
       "DAS NÄCHSTE KAPITEL KOMMT",
       "Deine Stadt.",
       "Deine nächste Geschichte.",
-      "Der Android-Download von StepOut ist jetzt verfügbar. Öffnen Sie die App, melden Sie sich an und entdecken Sie die Stadt.",
+      "Der Android-Download von FiestaBug ist jetzt verfügbar. Öffnen Sie die App, melden Sie sich an und entdecken Sie die Stadt.",
       "Webversion entdecken ↗",
       "Zum Start nachfragen",
       "Web und Android bieten unterschiedliche Funktionen. Geschäftsabos werden über unterstützte Google-Play-Käufe auf Android abgeschlossen."
@@ -302,7 +302,7 @@ window.WO_TRANSLATIONS={
     "footer": [
       "Erstellt von Eddy Davila · Bitter Softworks",
       "Systeme mit dem Menschen im Mittelpunkt.",
-      "StepOut · Vertriebsbereich ↗"
+      "FiestaBug · Vertriebsbereich ↗"
     ],
     "alt": "What’s-Out-Vorschau mit Bars und Events bei North Bergen und New York",
     "language": "Sprache",
@@ -320,10 +320,10 @@ window.WO_TRANSLATIONS={
       "Non essere solo sulla mappa.",
       "Diventa ciò che succede.",
       "Un posto nuovo. Una serata diversa. Un motivo per uscire.",
-      "Scopri luoghi ed eventi con StepOut e dai alle persone un motivo per visitare la tua attività.",
+      "Scopri luoghi ed eventi con FiestaBug e dai alle persone un motivo per visitare la tua attività.",
       "Trova la tua prossima uscita",
       "Ho un’attività",
-      "Il download Android di StepOut è disponibile. Apri l’app, accedi e inizia a esplorare.",
+      "Il download Android di FiestaBug è disponibile. Apri l’app, accedi e inizia a esplorare.",
       "LA CITTÀ È IL TUO PUNTO DI PARTENZA",
       "Rendi speciale il tuo prossimo programma."
     ],
@@ -382,8 +382,8 @@ window.WO_TRANSLATIONS={
       "DA SAPERE",
       "Risposte chiare.",
       "Niente grandi promesse.",
-      "Posso scaricare StepOut oggi?",
-      "Il download Android di StepOut è disponibile. Apri l’app, accedi e inizia a esplorare.",
+      "Posso scaricare FiestaBug oggi?",
+      "Il download Android di FiestaBug è disponibile. Apri l’app, accedi e inizia a esplorare.",
       "Tutti gli eventi vicini inviano notifiche?",
       "No. Il suggerimento della festa più vicina appare nell’app in base ai risultati caricati. Gli inviti VIP idonei prevedono notifiche, ma non ogni evento genera un avviso in background.",
       "Cosa cambia con l’abbonamento business?",
@@ -397,7 +397,7 @@ window.WO_TRANSLATIONS={
       "IL PROSSIMO CAPITOLO ARRIVA",
       "La tua città.",
       "La tua prossima storia.",
-      "Il download Android di StepOut è disponibile. Apri l’app, accedi e inizia a esplorare.",
+      "Il download Android di FiestaBug è disponibile. Apri l’app, accedi e inizia a esplorare.",
       "Esplora la versione web ↗",
       "Chiedi del lancio",
       "Web e Android hanno funzioni diverse. Gli abbonamenti business usano acquisti Google Play supportati su Android."
@@ -405,9 +405,9 @@ window.WO_TRANSLATIONS={
     "footer": [
       "Creato da Eddy Davila · Bitter Softworks",
       "Sistemi centrati sulle persone.",
-      "StepOut · Spazio agenti ↗"
+      "FiestaBug · Spazio agenti ↗"
     ],
-    "alt": "Anteprima StepOut con bar ed eventi vicino a North Bergen e New York",
+    "alt": "Anteprima FiestaBug con bar ed eventi vicino a North Bergen e New York",
     "language": "Lingua",
     "auto": "Automatico (browser)"
   },
@@ -423,10 +423,10 @@ window.WO_TRANSLATIONS={
       "Não esteja apenas no mapa.",
       "Seja o que está acontecendo.",
       "Um lugar novo. Uma noite diferente. Um motivo para sair.",
-      "Descubra lugares e eventos com StepOut e dê às pessoas um motivo para visitar seu negócio.",
+      "Descubra lugares e eventos com FiestaBug e dê às pessoas um motivo para visitar seu negócio.",
       "Encontre seu próximo passeio",
       "Tenho um negócio",
-      "O download Android do StepOut está disponível. Abra o app, entre e comece a explorar.",
+      "O download Android do FiestaBug está disponível. Abra o app, entre e comece a explorar.",
       "A CIDADE É SEU PONTO DE PARTIDA",
       "Faça seu próximo plano sair do comum."
     ],
@@ -485,8 +485,8 @@ window.WO_TRANSLATIONS={
       "BOM SABER",
       "Respostas claras.",
       "Sem grandes promessas.",
-      "Posso baixar StepOut hoje?",
-      "O download Android do StepOut está disponível. Abra o app, entre e comece a explorar.",
+      "Posso baixar FiestaBug hoje?",
+      "O download Android do FiestaBug está disponível. Abra o app, entre e comece a explorar.",
       "Todos os eventos próximos enviam notificações?",
       "Não. O aviso da festa mais próxima aparece no aplicativo conforme os resultados carregados. Convites VIP elegíveis têm notificações, mas não há alerta em segundo plano garantido para cada evento.",
       "O que muda com a assinatura comercial?",
@@ -500,7 +500,7 @@ window.WO_TRANSLATIONS={
       "O PRÓXIMO CAPÍTULO ESTÁ CHEGANDO",
       "Sua cidade.",
       "Sua próxima história.",
-      "O download Android do StepOut está disponível. Abra o app, entre e comece a explorar.",
+      "O download Android do FiestaBug está disponível. Abra o app, entre e comece a explorar.",
       "Explore a versão web ↗",
       "Pergunte sobre o lançamento",
       "Web e Android têm recursos diferentes. As assinaturas comerciais usam compras Google Play compatíveis no Android."
@@ -508,9 +508,9 @@ window.WO_TRANSLATIONS={
     "footer": [
       "Criado por Eddy Davila · Bitter Softworks",
       "Sistemas centrados nas pessoas.",
-      "StepOut · Espaço dos agentes ↗"
+      "FiestaBug · Espaço dos agentes ↗"
     ],
-    "alt": "Prévia do StepOut com bares e eventos perto de North Bergen e Nova York",
+    "alt": "Prévia do FiestaBug com bares e eventos perto de North Bergen e Nova York",
     "language": "Idioma",
     "auto": "Automático (navegador)"
   },
@@ -526,10 +526,10 @@ window.WO_TRANSLATIONS={
       "地図に載るだけでなく。",
       "街の話題になろう。",
       "新しい場所。いつもと違う夜。出かける理由。",
-      "StepOutで場所やイベントを探して、あなたのお店に訪れたくなる理由を届けましょう。",
+      "FiestaBugで場所やイベントを探して、あなたのお店に訪れたくなる理由を届けましょう。",
       "次のお出かけを探す",
       "事業者の方へ",
-      "StepOutのAndroid版を利用できます。アプリを開いてログインし、探索を始めましょう。",
+      "FiestaBugのAndroid版を利用できます。アプリを開いてログインし、探索を始めましょう。",
       "街から次の体験が始まる",
       "次の予定を、少し特別に。"
     ],
@@ -588,8 +588,8 @@ window.WO_TRANSLATIONS={
       "知っておきたいこと",
       "わかりやすい回答。",
       "大きな約束はしません。",
-      "今すぐStepOutをダウンロードできますか？",
-      "StepOutのAndroid版を利用できます。アプリを開いてログインし、探索を始めましょう。",
+      "今すぐFiestaBugをダウンロードできますか？",
+      "FiestaBugのAndroid版を利用できます。アプリを開いてログインし、探索を始めましょう。",
       "近くの全イベントがプッシュ通知されますか？",
       "いいえ。最寄りのパーティー案内は、読み込まれた結果に基づくアプリ内表示です。対象のVIP招待には通知機能がありますが、各イベントのバックグラウンド通知は保証しません。",
       "事業者向けサブスクリプションで何が変わりますか？",
@@ -603,7 +603,7 @@ window.WO_TRANSLATIONS={
       "次の章は、もうすぐ",
       "あなたの街。",
       "あなたの次の物語。",
-      "StepOutのAndroid版を利用できます。アプリを開いてログインし、探索を始めましょう。",
+      "FiestaBugのAndroid版を利用できます。アプリを開いてログインし、探索を始めましょう。",
       "Web版を試す ↗",
       "公開について問い合わせる",
       "Web版とAndroid版では機能が異なります。事業者サブスクリプションはAndroidの対応するGoogle Play購入を利用します。"
@@ -611,9 +611,9 @@ window.WO_TRANSLATIONS={
     "footer": [
       "制作：Eddy Davila · Bitter Softworks",
       "人を第一に考えるシステム。",
-      "StepOut · エージェント用ワークスペース ↗"
+      "FiestaBug · エージェント用ワークスペース ↗"
     ],
-    "alt": "North Bergenとニューヨーク周辺のバーとイベントを表示するStepOutの開発画面",
+    "alt": "North Bergenとニューヨーク周辺のバーとイベントを表示するFiestaBugの開発画面",
     "language": "言語",
     "auto": "自動（ブラウザー設定）"
   }

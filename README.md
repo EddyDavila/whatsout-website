@@ -1,7 +1,8 @@
-# StepOut marketing website
+# FiestaBug marketing website
 
-Static GitHub Pages site. Separate from the private app source and StepOut agent workspace.
+Existing GitHub Pages website, rebranded from StepOut with the owner-approved ladybug wordmark. The Android package, accounts, subscriptions and backend stay unchanged.
 
-Launch copy reflects owner's September 23, 2026 statement that Google Play review is pending. No available-now claim or subscription checkout. Existing brand artwork reused. Discovery screenshot is a labeled development preview with original map attribution preserved. Do not infer public event availability, worldwide coverage, background proximity pushes, or guaranteed sales from it.
+The transition notice deliberately retains StepOut as the current public Android listing name until the matching FiestaBug release is approved for production. Google Play review and rollout are not authorized by this website change.
 
-Sources: app benefits audit in whatsout-bizcard/data/benefits-audit.json and the reviewed app handoff/screenshots. Keep plan eligibility, notification limitations and purchase qualifications beside claims. Update launch state only after live store verification.
+Retired StepOut artwork and flyers remain archived but are no longer linked from the active page. Adjacent timestamped backups are local recovery copies and are excluded from Git. Travel packages are a future idea, not currently available. Existing business claim-flow limitations are preserved.
+
